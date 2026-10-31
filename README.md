@@ -26,8 +26,11 @@ Program:
 ## Oczekiwany wynik
 
 ```text
-Hello, APBD!
+Witaj w kalkulatorze APBD!
 Suma: 12
+Średnia: 4
+Liczba elementów: 3
+Maksimum: 6
 ```
 
 ## Struktura projektu
